@@ -138,5 +138,3 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 Thanks to **Amity University, Bengaluru** and **Google Developers Student Clubs** for support and innovation encouragement.
 
 ---
-
-Would you like a separate `requirements.txt`, diagram, or video script for a demo?
