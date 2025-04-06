@@ -4,7 +4,8 @@ Here’s a complete, professional **README.md** file for your **Check-Mate: Huma
 
 # 🤖 Check-Mate - Humanoid Receptionist Robot
 
-**Check-Mate** is a Python-based humanoid receptionist robot designed to streamline and enhance front desk experiences in environments such as universities, offices, and hospitality venues. Using cutting-edge technologies like OpenCV, Speech Recognition, Text-to-Speech, and Gemini AI (LLM), Aarryaa interacts with visitors, provides directions, answers queries, and acts as a smart assistant.
+**Check-Mate** is a Python-based humanoid receptionist robot designed to streamline and enhance front desk experiences in environments such as universities, offices, and hospitality venues. Using cutting-edge technologies like OpenCV, Speech Recognition, Text-to-Speech, and Gemini AI (LLM), 
+Check-Mate interacts with visitors, provides directions, answers queries, and acts as a smart assistant.
 
 ---
 
