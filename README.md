@@ -1,10 +1,10 @@
-Here’s a complete, professional **README.md** file for your **Aarryaa: Humanoid Receptionist Robot** project. You can use this directly for your GitHub repository or submission:
+Here’s a complete, professional **README.md** file for your **Check-Mate: Humanoid Receptionist Robot** project. You can use this directly for your GitHub repository or submission:
 
 ---
 
-# 🤖 Aarryaa - Humanoid Receptionist Robot
+# 🤖 Check-Mate - Humanoid Receptionist Robot
 
-**Aarryaa** is a Python-based humanoid receptionist robot designed to streamline and enhance front desk experiences in environments such as universities, offices, and hospitality venues. Using cutting-edge technologies like OpenCV, Speech Recognition, Text-to-Speech, and Gemini AI (LLM), Aarryaa interacts with visitors, provides directions, answers queries, and acts as a smart assistant.
+**Check-Mate** is a Python-based humanoid receptionist robot designed to streamline and enhance front desk experiences in environments such as universities, offices, and hospitality venues. Using cutting-edge technologies like OpenCV, Speech Recognition, Text-to-Speech, and Gemini AI (LLM), Aarryaa interacts with visitors, provides directions, answers queries, and acts as a smart assistant.
 
 ---
 
