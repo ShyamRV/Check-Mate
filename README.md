@@ -99,12 +99,6 @@ python main.py
 
 ---
 
-## 📸 Screenshots / Demo (Optional)
-
-> Add images or GIFs of the robot working, UI, or command-line output here.
-
----
-
 ## 🌐 Applications
 
 - Universities (like Amity University, Bengaluru)
